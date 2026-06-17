@@ -42,7 +42,7 @@ nav:
   - Toolchain:
       - Overview: toolchain/index.md
       - My toolkit: toolchain/my-toolkit.md
-      - Claude Code skills: toolchain/claude-code-skills.md
+      - Skills: toolchain/skills.md
   - Workflows:
       - Overview: workflows/index.md
       - Feedback loops: workflows/feedback-loops.md

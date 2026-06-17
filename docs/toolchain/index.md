@@ -11,4 +11,4 @@ The tools I lean on when working with agents, and how I actually use them day to
 ## Notes
 
 - [My toolkit](my-toolkit.md)
-- [Claude Code skills](claude-code-skills.md)
+- [Skills](skills.md)
