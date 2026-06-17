@@ -5,3 +5,6 @@
 .cache/
 __pycache__/
 .venv/
+
+# Planning docs (brainstorming specs + implementation plans) stay local only
+docs/superpowers/
