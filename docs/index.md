@@ -8,7 +8,7 @@ tags: [home]
 
 Practical field notes on agentic coding: principles, toolchain, and workflows that hold up in real work.
 
-This is a living, working knowledge base, not a textbook. It's what I've learned using AI coding agents day to day as an engineering leader. Expect it to grow and change as the field does.
+I'm a Senior Engineering Leader at Alan, practicing AI for coding since mid-2024 and more extensively since mid-2025. This is a living, working knowledge base, not a textbook. It's what I've learned using AI coding agents day to day. Expect it to grow and change as the field does.
 
 ## Sections
 
