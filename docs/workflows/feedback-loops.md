@@ -22,9 +22,9 @@ Tests prove the logic. They don't prove the thing actually works in a browser. A
 
 Once a change ships, error and APM tooling (via a Sentry or Datadog MCP) confirms you didn't break anything live. The loop closes in production, where errors, latency, and regressions surface in the place that counts.
 
-## Outcome over time: Amplitude / Segment / Metabase MCP
+## Outcome over time: Amplitude / Metabase MCP
 
-The slowest and most important loop. Product analytics (Amplitude, Segment, Metabase MCP) tell you whether the change actually moved the outcome you cared about. This is the loop you iterate and watch on, not just to avoid breaking things, but to know if the work mattered at all.
+The slowest and most important loop. Product analytics (Amplitude, Metabase MCP) tell you whether the change actually moved the outcome you cared about. This is the loop you iterate and watch on, not just to avoid breaking things, but to know if the work mattered at all.
 
 ## The point
 
