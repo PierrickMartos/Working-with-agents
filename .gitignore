@@ -1,0 +1,7 @@
+# MkDocs build output (site is built in CI later, never committed)
+/site/
+
+# Python / tooling caches that may appear during local builds
+.cache/
+__pycache__/
+.venv/

@@ -1,0 +1,48 @@
+site_name: Working with Agents
+site_description: "Practical field notes on agentic coding: principles, toolchain, and workflows that hold up in real work."
+site_author: Pierrick Martos
+site_url: https://pierrickmartos.github.io/Working-with-agents/
+repo_url: https://github.com/PierrickMartos/Working-with-agents
+repo_name: PierrickMartos/Working-with-agents
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - search.suggest
+    - content.code.copy
+
+# Planning docs (specs/plans) live under docs/superpowers/ by convention but
+# are not part of the published site.
+exclude_docs: |
+  superpowers/
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Learnings:
+      - Overview: learnings/index.md
+      - Treat the agent as a senior peer: learnings/agent-as-senior-peer.md
+  - Toolchain:
+      - Overview: toolchain/index.md
+      - Claude Code skills and RTK: toolchain/claude-code-skills-and-rtk.md
+  - Workflows:
+      - Overview: workflows/index.md
+      - TDD with agents: workflows/tdd-with-agents.md
+  - Links: links.md
