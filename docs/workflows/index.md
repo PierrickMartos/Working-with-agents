@@ -10,4 +10,6 @@ Reusable patterns for getting real work done with agents: how I structure a sess
 
 ## Notes
 
+- [Feedback loops](feedback-loops.md)
+- [Challenge the plan, then simplify the code](challenge-then-simplify.md)
 - [TDD with agents](tdd-with-agents.md)

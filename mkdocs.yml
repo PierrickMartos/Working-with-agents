@@ -41,8 +41,11 @@ nav:
       - Treat the agent as a senior peer: learnings/agent-as-senior-peer.md
   - Toolchain:
       - Overview: toolchain/index.md
+      - Tools I reach for: toolchain/tools-i-reach-for.md
       - Claude Code skills and RTK: toolchain/claude-code-skills-and-rtk.md
   - Workflows:
       - Overview: workflows/index.md
+      - Feedback loops: workflows/feedback-loops.md
+      - Challenge the plan, then simplify the code: workflows/challenge-then-simplify.md
       - TDD with agents: workflows/tdd-with-agents.md
   - Links: links.md

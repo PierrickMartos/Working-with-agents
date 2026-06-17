@@ -10,4 +10,5 @@ The tools I lean on when working with agents, and how I actually use them day to
 
 ## Notes
 
+- [Tools I reach for](tools-i-reach-for.md)
 - [Claude Code skills and RTK](claude-code-skills-and-rtk.md)
