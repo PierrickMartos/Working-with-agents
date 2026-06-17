@@ -1,10 +1,10 @@
 ---
-title: Tools I reach for
+title: My toolkit
 date: 2026-06-17
 tags: [toolchain]
 ---
 
-# Tools I reach for
+# My toolkit
 
 A short list of tools that have earned a permanent spot in how I work with agents. None are magic on their own. Together they remove friction so the agent spends its budget on the actual problem.
 
@@ -14,7 +14,7 @@ A short list of tools that have earned a permanent spot in how I work with agent
 
 ## rtk: save tokens on routine commands
 
-rtk rewrites common dev commands into token-cheaper equivalents. It's not magic, but it trims the output the agent has to read for routine operations, which leaves more room for the work that matters. More on the principle in [Claude Code skills and RTK](claude-code-skills-and-rtk.md).
+rtk rewrites common dev commands into token-cheaper equivalents. It's not magic, but it trims the output the agent has to read for routine operations, which leaves more room for the work that matters. The principle it represents: shrink the cost of the boring stuff so the budget goes to the thinking.
 
 ## fff: fast search on large codebases
 
