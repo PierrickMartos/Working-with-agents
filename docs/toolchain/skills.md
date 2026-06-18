@@ -23,3 +23,12 @@ The easy misread is that lightweight means low-power. It doesn't. A skill can bu
 - **Discovered, not memorized.** A good description means the agent picks it up at the right moment without me naming it.
 - **Composable.** A thin personal command can wrap a generic skill and inject my context, so shared logic stays in one place.
 - **Context-cheap.** The detailed procedure loads only when needed, not on every turn.
+
+## Skills I reach for
+
+A few that have earned their place:
+
+- **Anthropic's `/code-review` and `/simplify`.** They ship with Claude Code. `/code-review` hunts the diff for real bugs, `/simplify` cleans the same code up for reuse and clarity. I run them before I trust a change I just made.
+- **`frontend-design`.** Pulls UI work away from generic AI defaults toward something with actual taste. My go-to whenever the agent touches an interface.
+- **`skill-creator`.** The skill for making skills. It scaffolds, sharpens the description so the agent discovers it at the right moment, and runs evals. Most of my own skills started here.
+- **[Superpowers](https://github.com/obra/Superpowers).** obra's community collection: TDD, systematic debugging, brainstorming, plan execution. It's where I picked up a lot of the disciplined-workflow patterns I now treat as default.

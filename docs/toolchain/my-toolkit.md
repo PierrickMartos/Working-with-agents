@@ -20,6 +20,10 @@ A short list of tools that have earned a permanent spot in how I work with agent
 
 [fff](https://github.com/dmtrKovalenko/fff) is a fast file and content finder. On a big codebase the speed-up is real: the agent locates code in one quick call instead of grinding through slow searches. The bigger the repo, the more it pays off.
 
+## leadership-skills: my own playbook for the hard parts
+
+[leadership-skills](https://github.com/PierrickMartos/leadership-skills) is my own skills marketplace for the parts of leadership that come with no clear playbook: decision-making, communication, hiring, performance reviews. Each skill is built to find the gaps in my first draft of thinking, stress-test the assumptions, and ask the uncomfortable question before it costs me. I add it with `/plugin marketplace add pierrickmartos/leadership-skills` and reach for one when the moment fits, like an adversarial review before a big call or a reframe before writing to execs.
+
 ## Plannotator: a tighter feedback loop on plans
 
 [Plannotator](https://github.com/backnotprop/plannotator) opens a review-and-annotate loop on a plan before any code gets written. I mark up the plan in place, catch wrong turns early, and hand the corrections back. It's far cheaper to fix a plan than the code it would have produced.
